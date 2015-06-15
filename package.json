@@ -1,7 +1,7 @@
 {
-  "name": "sfap-demo",
+  "name": "jekyll-boilerplate",
   "version": "0.0.1",
-  "description": "Demo site for Style-Free Audio Player",
+  "description": "Raw skeleton for getting up-and-running with Jekyll projects",
   "main": "gulpfile.js",
   "scripts": {
     "test": "ls -l"

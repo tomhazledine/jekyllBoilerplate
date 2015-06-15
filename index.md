@@ -3,4 +3,4 @@ layout: default
 title: Home
 ---
 
-A demo page for the Style-Free Audio Player.
+Raw skeleton for getting up-and-running with Jekyll projects.
