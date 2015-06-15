@@ -4,8 +4,8 @@ pygments: true
 kramdown:
   auto_ids: false
 description: A demo site for SFAP
-url: http://audio.dev # Local
-# url: http://tomhazledine.com # Live
+url: http://test.dev # Local
+# url: http://test.com # Live
 exclude: [config.rb,
           gruntfile.js,
           root.css,
