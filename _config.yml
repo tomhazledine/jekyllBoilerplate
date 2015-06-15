@@ -1,0 +1,19 @@
+name: Style-Free Audio Player
+markdown: kramdown
+pygments: true
+kramdown:
+  auto_ids: false
+description: A demo site for SFAP
+url: http://audio.dev # Local
+# url: http://tomhazledine.com # Live
+exclude: [config.rb,
+          gruntfile.js,
+          root.css,
+          sass,
+          favicon_sizes,
+          social_icons,
+          package.json,
+          notes*.md,
+          img/design_files*,
+          img/raw*,
+          node_modules]
